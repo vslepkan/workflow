@@ -1,0 +1,23 @@
+<scheme name="My Own Scheme" version="142" parent_scheme="Darcula">
+  <option name="LINE_SPACING" value="1.1" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <attributes>
+    <option name="HTML_TAG">
+      <value>
+        <option name="FOREGROUND" value="ffcb6b" />
+      </value>
+    </option>
+    <option name="HTML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="ffcb6b" />
+      </value>
+    </option>
+    <option name="JADE_TAG_CLASS">
+      <value>
+        <option name="FOREGROUND" value="bb80b3" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

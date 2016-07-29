@@ -1,0 +1,22 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '/Applications/MAMP/htdocs/wp-content/themes/intellectsoft.net/src/css/sass/_p-industry.sass'" />
+    <option name="defaultScopeName" value="File '/Applications/MAMP/htdocs/wp-content/themes/intellectsoft.net/src/css/sass/_p-industry.sass'" />
+    <option name="SEARCH_SCOPE" value="File '/Applications/MAMP/htdocs/wp-content/themes/intellectsoft.net/src/css/sass/_p-industry.sass'" />
+    <option name="FILE_MASK" value="*.styl" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.js</mask>
+      <mask>*.php</mask>
+      <mask>*.twig</mask>
+      <mask>*.styl</mask>
+    </recentFileMasks>
+  </component>
+</application>
