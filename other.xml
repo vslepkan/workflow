@@ -71,4 +71,34 @@
       <version-cache version="5.6.0" last-modified="1455035122000" />
     </local-interpreter>
   </component>
+  <component name="RecentTaskRepositories">
+    <Gitlab shared="false" url="https://gitlab.isdev.info">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentProject">
+        <GitlabProject id="231" />
+      </option>
+      <password>dffddf9edfd0dfc3dffadfcbdfd2dfdcdfdadfc8dfebdfc3dfd3dfcedf93dfd3dfd3df9bdfdfdfd8</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username />
+    </Gitlab>
+    <JIRA shared="false" url="https://isportal.atlassian.net">
+      <option name="apiType" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>dffcdfe3dfd2dfcddfefdf99dffddfe7dfe6dfc4dfe0dfe3</password>
+      <option name="jiraVersion" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>v.slepkan</username>
+    </JIRA>
+  </component>
 </application>
