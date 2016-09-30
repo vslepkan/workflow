@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Applications/MAMP/htdocs/wp-content/themes/intellectsoft.net/src/css/sass/_p-industry.sass'" />
-    <option name="defaultScopeName" value="File '/Applications/MAMP/htdocs/wp-content/themes/intellectsoft.net/src/css/sass/_p-industry.sass'" />
-    <option name="SEARCH_SCOPE" value="File '/Applications/MAMP/htdocs/wp-content/themes/intellectsoft.net/src/css/sass/_p-industry.sass'" />
+    <option name="customScope" value="Current File" />
+    <option name="defaultScopeName" value="Current File" />
+    <option name="SEARCH_SCOPE" value="Current File" />
     <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
