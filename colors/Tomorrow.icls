@@ -1836,9 +1836,6 @@
         <option name="FOREGROUND" value="c82829" />
       </value>
     </option>
-    <option name="JSP_SCRIPTING_BACKGROUND">
-      <value />
-    </option>
     <option name="Keyword">
       <value>
         <option name="FOREGROUND" value="8959a8" />
@@ -3263,9 +3260,6 @@
         <option name="FOREGROUND" value="eab700" />
       </value>
     </option>
-    <option name="Scala Type Alias">
-      <value />
-    </option>
     <option name="Scala Type parameter">
       <value>
         <option name="FOREGROUND" value="f5871f" />
@@ -3535,9 +3529,6 @@
       <value>
         <option name="FOREGROUND" value="4271ae" />
       </value>
-    </option>
-    <option name="VELOCITY_SCRIPTING_BACKGROUND">
-      <value />
     </option>
     <option name="VELOCITY_STRING">
       <value>

@@ -1835,9 +1835,6 @@
         <option name="FOREGROUND" value="d54e53" />
       </value>
     </option>
-    <option name="JSP_SCRIPTING_BACKGROUND">
-      <value />
-    </option>
     <option name="Keyword">
       <value>
         <option name="FOREGROUND" value="c397d8" />
@@ -3527,9 +3524,6 @@
       <value>
         <option name="FOREGROUND" value="7aa6da" />
       </value>
-    </option>
-    <option name="VELOCITY_SCRIPTING_BACKGROUND">
-      <value />
     </option>
     <option name="VELOCITY_STRING">
       <value>
