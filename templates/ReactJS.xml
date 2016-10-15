@@ -1,5 +1,5 @@
 <templateSet group="ReactJS">
-  <template name="rcc" value="import React from 'react';&#10;&#10;const $class$ = React.createClass({&#10;  render() {&#10;    return (&#10;      &lt;div /&gt;&#10;    );&#10;  }&#10;});&#10;&#10;export default $class$;&#10;" description="Create a React.js component" toReformat="false" toShortenFQNames="true">
+  <template name="rcc" value="import React, { Component } from 'react'&#10;&#10;class $class$ extends Component {&#10;  render() {&#10;    return (&#10;      &lt;div&gt;&#10;      $END$&#10;      &lt;/div&gt;&#10;    )&#10;  }&#10;}&#10;&#10;export default $class$" description="Create a React.js component" toReformat="false" toShortenFQNames="true">
     <variable name="class" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
