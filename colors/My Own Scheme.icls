@@ -105,6 +105,17 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="STYLUS_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="STYLUS_PROPERTY_NAME">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
     <option name="STYLUS_PSEUDO">
       <value>
         <option name="FOREGROUND" value="6699cc" />
