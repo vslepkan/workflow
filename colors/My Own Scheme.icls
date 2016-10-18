@@ -7,6 +7,12 @@
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="Operator Mono" />
   <attributes>
+    <option name="HTML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
         <option name="FOREGROUND" value="bb80b3" />
@@ -22,9 +28,36 @@
         <option name="FOREGROUND" value="c4415f" />
       </value>
     </option>
+    <option name="JADE_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="bababa" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JADE_PARENTS">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="JADE_TAG_CLASS">
       <value>
         <option name="FOREGROUND" value="bb80b3" />
+      </value>
+    </option>
+    <option name="JADE_TAG_ID">
+      <value>
+        <option name="FOREGROUND" value="6699cc" />
+      </value>
+    </option>
+    <option name="JADE_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="c4415f" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JADE_TEXT">
+      <value>
+        <option name="FOREGROUND" value="bababa" />
       </value>
     </option>
     <option name="JS.GLOBAL_FUNCTION">
