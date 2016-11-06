@@ -2,7 +2,7 @@
   <option name="HTML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
   <JSCodeStyleSettings>
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
-    <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
+    <option name="INDENT_CHAINED_CALLS" value="false" />
   </JSCodeStyleSettings>
   <XML>
     <option name="XML_ATTRIBUTE_WRAP" value="0" />
@@ -31,6 +31,7 @@
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
