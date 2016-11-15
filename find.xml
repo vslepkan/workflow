@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="Current File" />
     <option name="defaultScopeName" value="Current File" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Current File" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -13,10 +15,10 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.twig</mask>
-      <mask>*.styl</mask>
-      <mask>*.php</mask>
       <mask>*.js</mask>
       <mask>*.html</mask>
+      <mask>*.styl</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
