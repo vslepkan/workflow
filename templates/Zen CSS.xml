@@ -1,8 +1,6 @@
 <templateSet group="Zen CSS">
   <template name="fs" value="font-size:$VAR0$" description="font-size:..." toReformat="true" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="&quot;16px&quot;" alwaysStopAt="true" />
-    <context>
-      <option name="CSS_DECLARATION_BLOCK" value="true" />
-    </context>
+    <context />
   </template>
 </templateSet>
