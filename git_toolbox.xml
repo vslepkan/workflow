@@ -1,5 +1,6 @@
 <application>
   <component name="GitToolBoxAppSettings">
+    <option name="showProjectViewStatus" value="false" />
     <option name="projectViewStatusColorHex" value="6c6c6c" />
   </component>
 </application>
