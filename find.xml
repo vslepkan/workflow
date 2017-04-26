@@ -20,6 +20,9 @@
       <mask>*.jsx</mask>
       <mask>*.html</mask>
       <mask>*.p</mask>
+      <mask>.</mask>
+      <mask>.p</mask>
+      <mask>.php</mask>
       <mask>*.php</mask>
     </recentFileMasks>
   </component>
