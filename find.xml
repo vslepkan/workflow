@@ -17,15 +17,16 @@
       <mask>.</mask>
       <mask>.p</mask>
       <mask>.php</mask>
-      <mask>*.styl</mask>
       <mask>*.sty</mask>
-      <mask>*.st</mask>
-      <mask>*.s</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.s</mask>
+      <mask>*.st</mask>
+      <mask>*.styl</mask>
     </recentFileMasks>
   </component>
 </application>
