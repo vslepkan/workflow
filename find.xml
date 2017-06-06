@@ -3,11 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.styl" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
@@ -16,20 +13,28 @@
       <mask>.</mask>
       <mask>.p</mask>
       <mask>.php</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*.styl</mask>
-      <mask>*.sty</mask>
-      <mask>*.st</mask>
       <mask>*.s</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>*.htm</mask>
       <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*.st</mask>
+      <mask>*.sty</mask>
+      <mask>*.styl'</mask>
+      <mask>*.styl}</mask>
+      <mask>*.styl&quot;</mask>
+      <mask>*.styl|html</mask>
+      <mask>*.styl|htm</mask>
+      <mask>*.styl|ht</mask>
+      <mask>*.styl|h</mask>
+      <mask>*.styl|</mask>
+      <mask>*.styl</mask>
     </recentFileMasks>
   </component>
 </application>
