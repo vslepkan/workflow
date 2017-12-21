@@ -7,5 +7,8 @@
   </component>
   <component name="Registry">
     <entry key="dumb.aware.run.configurations" value="true" />
+    <entry key="search.everywhere.symbols" value="false" />
+    <entry key="search.everywhere.toolwindows" value="false" />
+    <entry key="search.everywhere.configurations" value="false" />
   </component>
 </application>
