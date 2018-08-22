@@ -1,15 +1,14 @@
 <scheme name="My Own Scheme" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2017-12-05T19:16:51</property>
+    <property name="modified">2018-08-22T11:02:10</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="Operator Mono" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <attributes>
     <option name="HTML_ATTRIBUTE_NAME">
