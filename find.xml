@@ -16,5 +16,6 @@
     <mask>*.html</mask>
     <mask>*.spec.js</mask>
     <mask>*.spec*</mask>
+    <mask>*.jsx*</mask>
   </component>
 </application>
