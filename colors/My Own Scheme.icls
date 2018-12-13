@@ -1,7 +1,7 @@
 <scheme name="My Own Scheme" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2018-09-05T11:15:17</property>
+    <property name="modified">2018-12-13T10:53:56</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -30,6 +30,9 @@
       <value>
         <option name="FOREGROUND" value="c4415f" />
       </value>
+    </option>
+    <option name="INJECTED_LANGUAGE_FRAGMENT">
+      <value />
     </option>
     <option name="JADE_ATTRIBUTE_NAME">
       <value>
