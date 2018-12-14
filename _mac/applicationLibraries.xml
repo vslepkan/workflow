@@ -8,9 +8,5 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="@types/request" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
   </component>
 </application>
