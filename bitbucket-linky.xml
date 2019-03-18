@@ -19,5 +19,8 @@
     <event name="CreatePullRequest" place="EditorPopup" timestamp="2019-03-15T13:01:42.028Z">
       <attribute name="bitbucket">cloud</attribute>
     </event>
+    <event name="CreatePullRequest" place="EditorPopup" timestamp="2019-03-18T08:57:49.237Z">
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
   </component>
 </application>
