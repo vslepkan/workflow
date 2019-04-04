@@ -9,42 +9,4 @@
     <lookup />
   </component>
   <component name="Instance" id="aad19bc2-63b7-426d-bf29-9ea18962c94e" version="6.3" />
-  <component name="UsageLog">
-    <event name="CreatePullRequest" place="EditorPopup" timestamp="2019-03-15T10:03:27.045Z">
-      <attribute name="bitbucket">cloud</attribute>
-    </event>
-    <event name="CreatePullRequest" place="EditorPopup" timestamp="2019-03-15T11:40:19.361Z">
-      <attribute name="bitbucket">cloud</attribute>
-    </event>
-    <event name="CreatePullRequest" place="EditorPopup" timestamp="2019-03-15T13:01:42.028Z">
-      <attribute name="bitbucket">cloud</attribute>
-    </event>
-    <event name="CreatePullRequest" place="EditorPopup" timestamp="2019-03-18T08:57:49.237Z">
-      <attribute name="bitbucket">cloud</attribute>
-    </event>
-    <event name="CreatePullRequest" place="EditorPopup" timestamp="2019-03-18T15:22:05.343Z">
-      <attribute name="bitbucket">cloud</attribute>
-    </event>
-    <event name="CreatePullRequest" place="EditorPopup" timestamp="2019-03-19T09:38:25.418Z">
-      <attribute name="bitbucket">cloud</attribute>
-    </event>
-    <event name="CreatePullRequest" place="EditorPopup" timestamp="2019-03-20T15:49:43.243Z">
-      <attribute name="bitbucket">cloud</attribute>
-    </event>
-    <event name="CreatePullRequest" place="EditorPopup" timestamp="2019-03-21T13:28:34.910Z">
-      <attribute name="bitbucket">cloud</attribute>
-    </event>
-    <event name="CreatePullRequest" place="EditorPopup" timestamp="2019-03-22T14:25:48.019Z">
-      <attribute name="bitbucket">cloud</attribute>
-    </event>
-    <event name="CreatePullRequest" place="EditorPopup" timestamp="2019-03-22T15:12:44.620Z">
-      <attribute name="bitbucket">cloud</attribute>
-    </event>
-    <event name="CreatePullRequest" place="EditorPopup" timestamp="2019-04-01T10:49:00.236Z">
-      <attribute name="bitbucket">cloud</attribute>
-    </event>
-    <event name="CreatePullRequest" place="EditorPopup" timestamp="2019-04-03T12:34:10.671Z">
-      <attribute name="bitbucket">cloud</attribute>
-    </event>
-  </component>
 </application>
