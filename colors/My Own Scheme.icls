@@ -1,7 +1,7 @@
 <scheme name="My Own Scheme" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2018-12-13T10:53:56</property>
+    <property name="modified">2019-09-02T21:15:34</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -69,9 +69,15 @@
     <option name="JS.BRACES">
       <value />
     </option>
-    <option name="JS.GLOBAL_FUNCTION">
+    <option name="JS.EXPORTED.CLASS">
       <value>
-        <option name="FOREGROUND" value="ffc66d" />
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
