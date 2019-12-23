@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Readme" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore" type="PLAIN_TEXT" />
       <mapping ext="mdx" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
