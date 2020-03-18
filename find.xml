@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.spec.ts" />
+    <option name="FILE_MASK" value="!*.spec.tsx" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -24,5 +24,6 @@
     <mask>!*.test.js</mask>
     <mask>!*.spec.[ts|tsx]</mask>
     <mask>!*.spec.ts</mask>
+    <mask>!*.spec.tsx</mask>
   </component>
 </application>
