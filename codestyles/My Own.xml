@@ -1,6 +1,7 @@
 <code_scheme name="My Own" version="173">
   <HTMLCodeStyleSettings>
-    <option name="HTML_ATTRIBUTE_WRAP" value="2" />
+    <option name="HTML_UNIFORM_INDENT" value="true" />
+    <option name="HTML_ATTRIBUTE_WRAP" value="0" />
     <option name="HTML_NEWLINE_BEFORE_FIRST_ATTRIBUTE" value="When multiline" />
     <option name="HTML_NEWLINE_AFTER_LAST_ATTRIBUTE" value="When multiline" />
   </HTMLCodeStyleSettings>
