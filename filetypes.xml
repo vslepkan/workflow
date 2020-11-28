@@ -1,10 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="graphqlconfig" type="JSON" />
       <mapping ext="mp4" type="Native" />
-      <mapping pattern="Readme" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="ReCaptchaContext.js" type="PLAIN_TEXT" />
+      <mapping pattern="Readme" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore" type="PLAIN_TEXT" />
       <mapping ext="mdx" type="PLAIN_TEXT" />
     </extensionMap>
