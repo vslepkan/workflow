@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="graphqlconfig" type="JSON" />
       <mapping ext="mp4" type="Native" />
@@ -8,6 +8,7 @@
       <mapping pattern="Readme" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore" type="PLAIN_TEXT" />
       <mapping ext="mdx" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="ANSI Aware" />
     </extensionMap>
   </component>
 </application>
