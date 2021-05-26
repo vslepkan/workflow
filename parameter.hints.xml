@@ -1,6 +1,7 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
+      <blacklist language="TypeScript" />
       <blacklist language="JavaScript">
         <added pattern="React.useEffect(effect,inputs)" />
       </blacklist>
