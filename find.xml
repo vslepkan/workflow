@@ -32,5 +32,6 @@
     <mask>*.test.tsx</mask>
     <mask>*.tsx</mask>
     <mask>*.ts</mask>
+    <mask>*.svelte</mask>
   </component>
 </application>
