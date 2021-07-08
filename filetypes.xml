@@ -8,6 +8,7 @@
       <mapping pattern="Readme" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore" type="PLAIN_TEXT" />
       <mapping ext="mdx" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="kitty" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
     </extensionMap>
