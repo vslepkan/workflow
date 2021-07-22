@@ -30,8 +30,8 @@
     <mask>!*.test*, !*.map</mask>
     <mask>*.test.ts</mask>
     <mask>*.test.tsx</mask>
-    <mask>*.tsx</mask>
     <mask>*.ts</mask>
     <mask>*.svelte</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
