@@ -1,0 +1,5 @@
+<list display="Prettier">
+  <action id="ReformatWithPrettierAction" />
+  <action id="QuickList.$Separator$" />
+  <action id="TslintImportCodeStyleAction" />
+</list>

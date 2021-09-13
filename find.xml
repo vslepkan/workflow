@@ -1,0 +1,37 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.properties</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.mxml</mask>
+    <mask>*.html</mask>
+    <mask>*.spec.js</mask>
+    <mask>*.spec*</mask>
+    <mask>*.jsx*</mask>
+    <mask>*.css*</mask>
+    <mask>!*.test*</mask>
+    <mask>*.css</mask>
+    <mask>!*.test</mask>
+    <mask>!*.[test|json]</mask>
+    <mask>!*.json</mask>
+    <mask>!*.test.js</mask>
+    <mask>!*.spec.[ts|tsx]</mask>
+    <mask>!*.spec.ts</mask>
+    <mask>!*.spec.tsx</mask>
+    <mask>!*.spec.*</mask>
+    <mask>!*.test.*</mask>
+    <mask>!*.test*, !*.map, !*-cache*</mask>
+    <mask>!*.test*, !*.map</mask>
+    <mask>*.test.ts</mask>
+    <mask>*.test.tsx</mask>
+    <mask>*.svelte</mask>
+    <mask>*.tsx</mask>
+    <mask>*.ts</mask>
+  </component>
+</application>
