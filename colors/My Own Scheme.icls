@@ -1,0 +1,142 @@
+<scheme name="My Own Scheme" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="modified">2021-04-12T18:11:52</property>
+    <property name="rainbow Default language">true</property>
+  </metaInfo>
+  <option name="CONSOLE_FONT_NAME" value="Operator Mono" />
+  <option name="CONSOLE_LINE_SPACING" value="1.1" />
+  <attributes>
+    <option name="HTML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="HTML_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="bb80b3" />
+      </value>
+    </option>
+    <option name="HTML_TAG">
+      <value>
+        <option name="FOREGROUND" value="c4415f" />
+      </value>
+    </option>
+    <option name="HTML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="c4415f" />
+      </value>
+    </option>
+    <option name="INJECTED_LANGUAGE_FRAGMENT">
+      <value />
+    </option>
+    <option name="JADE_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="bababa" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JADE_PARENTS">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JADE_TAG_CLASS">
+      <value>
+        <option name="FOREGROUND" value="bb80b3" />
+      </value>
+    </option>
+    <option name="JADE_TAG_ID">
+      <value>
+        <option name="FOREGROUND" value="6699cc" />
+      </value>
+    </option>
+    <option name="JADE_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="c4415f" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JADE_TEXT">
+      <value>
+        <option name="FOREGROUND" value="bababa" />
+      </value>
+    </option>
+    <option name="JS.BRACES">
+      <value />
+    </option>
+    <option name="JS.EXPORTED.CLASS">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="6699cc" />
+      </value>
+    </option>
+    <option name="JS.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="c4415f" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PHP_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PHP_TAG">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="STYLUS_IDENT">
+      <value>
+        <option name="FOREGROUND" value="c4415f" />
+      </value>
+    </option>
+    <option name="STYLUS_ID_SELECTOR">
+      <value>
+        <option name="FOREGROUND" value="c4415f" />
+      </value>
+    </option>
+    <option name="STYLUS_IMPORTANT">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="STYLUS_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="STYLUS_PROPERTY_NAME">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
+    <option name="STYLUS_PSEUDO">
+      <value>
+        <option name="FOREGROUND" value="6699cc" />
+      </value>
+    </option>
+    <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="40332b" />
+        <option name="ERROR_STRIPE_COLOR" value="8d4457" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
