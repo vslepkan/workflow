@@ -2,21 +2,12 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
-    <mask>*.jsp</mask>
-    <mask>*.xml</mask>
-    <mask>*.java</mask>
-    <mask>*.js</mask>
-    <mask>*.as</mask>
-    <mask>*.mxml</mask>
-    <mask>*.html</mask>
-    <mask>*.spec.js</mask>
-    <mask>*.spec*</mask>
     <mask>*.jsx*</mask>
     <mask>*.css*</mask>
     <mask>!*.test*</mask>
-    <mask>*.css</mask>
     <mask>!*.test</mask>
     <mask>!*.[test|json]</mask>
     <mask>!*.json</mask>
@@ -32,6 +23,17 @@
     <mask>*.test.tsx</mask>
     <mask>*.svelte</mask>
     <mask>*.tsx</mask>
+    <mask>*.xml</mask>
+    <mask>*.css</mask>
+    <mask>*.shtml</mask>
+    <mask>*.shtm</mask>
+    <mask>*.ng</mask>
+    <mask>*.htm</mask>
+    <mask>*.sht</mask>
+    <mask>*.html</mask>
+    <mask>*.ats</mask>
     <mask>*.ts</mask>
+    <mask>*.cjs</mask>
+    <mask>*.js</mask>
   </component>
 </application>
